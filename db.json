@@ -1,0 +1,242 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Spiced Cinnamon",
+        "shortbefore": "SP",
+        "shortafter": "CI",
+        "taste": "Notes of cinnamon & apple",
+        "roast": "Medium",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 14,
+        "color": "E54124",
+        "desc": "Cinnamon & Apple Flavored Coffee has the sweet and spicy aroma and flavor of Cinnamon that will delight your palate and senses.",
+        "bgpos": "left",
+        "amount_sold": 157,
+        "left_in_stock": 75,
+        "reviews": [
+          "We love the aroma that fills the room whenever we pour a cup. 11/10 would recommend!",
+          "Good stuff!",
+          "Could use some more apple flavours, cinnamon can be a bit overwhelming."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Breakfast Blend",
+        "shortbefore": "SC",
+        "shortafter": "BB",
+        "taste": "Smooth with a fresh aftertaste",
+        "roast": "Blended",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "DAA915",
+        "desc": "This is truly a 'wake-up' cup of coffee. A mixture of Central and South American coffee, this blend leaves a long, balanced aftertaste and the desire for a second morning cup.",
+        "bgpos": "center",
+        "amount_sold": 126,
+        "left_in_stock": 28,
+        "reviews": [
+          "Perfect for a morning sip.",
+          "I love taking this blend with me on the road. Keeps me focussed."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Butter Rum",
+        "shortbefore": "SC",
+        "shortafter": "BR",
+        "taste": "Hints of vanilla & butterscotch",
+        "roast": "Medium",
+        "grind": "Very Fine",
+        "weight": "350 mg",
+        "price": 14,
+        "color": "014C99",
+        "desc": "With hints of warm vanilla and butterscotch, this alcohol-free coffee makes a beautifully balanced, aromatic cup of Butter Rum Flavored Coffee.",
+        "bgpos": "right",
+        "amount_sold": 114,
+        "left_in_stock": 12,
+        "reviews": [
+          "Sweeeet!",
+          "Weird combo at first but we all love it now."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Pacific Dark",
+        "shortbefore": "SP",
+        "shortafter": "PD",
+        "taste": "Full-bodied, with a smoky flavor",
+        "roast": "Dark",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "E54124",
+        "desc": "This roast has been pushed to its limits. Roasted to its full potential to give a rich dark flavor that is simply unmatched. This roast requires perfect precision to keep the best of the coffees original characteristics and flavors for you enjoyment.",
+        "bgpos": "left",
+        "amount_sold": 75,
+        "left_in_stock": 65,
+        "reviews": [
+          "We love the aroma that fills the room whenever we pour a cup. 11/10 would recommend!"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Blend Classic",
+        "shortbefore": "SP",
+        "shortafter": "BS",
+        "taste": "A soft, smooth classic blend",
+        "roast": "Medium",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 9,
+        "color": "014C99",
+        "desc": "A soft, smooth blend with fragrant nuttiness and sweet taste.",
+        "bgpos": "center",
+        "amount_sold": 102,
+        "left_in_stock": 75,
+        "reviews": []
+      },
+      {
+        "id": 6,
+        "name": "Espresso Perfecto",
+        "shortbefore": "ES",
+        "shortafter": "PE",
+        "taste": "Dense, smooth, and sweet",
+        "roast": "Medium",
+        "grind": "Very Fine",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "E54124",
+        "desc": "A hard unforgiving punch in the face. Perfect for waking up, Italian style.",
+        "bgpos": "right",
+        "amount_sold": 700,
+        "left_in_stock": 64,
+        "reviews": []
+      }
+    ],
+    "products_nl": [
+      {
+        "id": 1,
+        "name": "Kaneel & Appel",
+        "shortbefore": "SP",
+        "shortafter": "CI",
+        "taste": "Hints van kaneel en appel",
+        "roast": "Medium",
+        "grind": "Volledige Bonen",
+        "weight": "350 mg",
+        "price": 14,
+        "color": "E54124",
+        "desc": "Koffie met kaneel en appel heeft een zoete en kruidige geur die uw smaakpapillen en zintuigen zal verrukken.",
+        "bgpos": "left",
+        "amount_sold": 157,
+        "left_in_stock": 28,
+        "reviews": []
+      },
+      {
+        "id": 2,
+        "name": "Wake n Coffee",
+        "shortbefore": "SC",
+        "shortafter": "BB",
+        "taste": "Een zachte bittere smaak",
+        "roast": "Blended",
+        "grind": "Volledige Bonen",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "DAA915",
+        "desc": "Met een mengeling van Centraal- en Zuid-Amerikaanse bonen is dit een echte 'wake-up' koffie. Het heeft een zachte smaak met een bittere toets.",
+        "bgpos": "center",
+        "amount_sold": 126,
+        "left_in_stock": 5,
+        "reviews": []
+      },
+      {
+        "id": 3,
+        "name": "Toffee Rum",
+        "shortbefore": "SC",
+        "shortafter": "BR",
+        "taste": "Een mix van vanille en toffee",
+        "roast": "Medium",
+        "grind": "Heel Fijn",
+        "weight": "350 mg",
+        "price": 14,
+        "color": "014C99",
+        "desc": "Met hints van warme vanille en butterscotch krijgt deze alcoholvrije koffie een prachtige uitgebalanceerde e en aromatische smaak.",
+        "bgpos": "right",
+        "amount_sold": 114,
+        "left_in_stock": 45,
+        "reviews": []
+      },
+      {
+        "id": 4,
+        "name": "Pacific Dark",
+        "shortbefore": "SP",
+        "shortafter": "PD",
+        "taste": "Full-bodied, with a smoky flavor",
+        "roast": "Dark",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "E54124",
+        "desc": "This roast has been pushed to its limits. Roasted to its full potential to give a rich dark flavor that is simply unmatched. This roast requires perfect precision to keep the best of the coffees original characteristics and flavors for you enjoyment.",
+        "bgpos": "left",
+        "amount_sold": 75,
+        "left_in_stock": 78,
+        "reviews": []
+      },
+      {
+        "id": 5,
+        "name": "Blend Classic",
+        "shortbefore": "SP",
+        "shortafter": "BS",
+        "taste": "A soft, smooth classic blend",
+        "roast": "Medium",
+        "grind": "Whole Bean",
+        "weight": "350 mg",
+        "price": 9,
+        "color": "014C99",
+        "desc": "A soft, smooth blend with fragrant nuttiness and sweet taste.",
+        "bgpos": "center",
+        "amount_sold": 102,
+        "left_in_stock": 95,
+        "reviews": []
+      },
+      {
+        "id": 6,
+        "name": "Espresso Perfecto",
+        "shortbefore": "ES",
+        "shortafter": "PE",
+        "taste": "Dense, smooth, and sweet",
+        "roast": "Medium",
+        "grind": "Very Fine",
+        "weight": "350 mg",
+        "price": 11,
+        "color": "E54124",
+        "desc": "A hard unforgiving punch in the face. Perfect for waking up, Italian style.",
+        "bgpos": "right",
+        "amount_sold": 700,
+        "left_in_stock": 121,
+        "reviews": []
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "Lennertsk",
+        "password": "erty"
+      }
+    ],
+    "shoppingCart": []
+  }
