@@ -238,5 +238,13 @@
         "password": "erty"
       }
     ],
-    "shoppingCart": []
+    "shoppingCart": [
+      {
+        "id": 2,
+        "product_name": "Breakfast Blend",
+        "quantity": 3,
+        "price_single": 11,
+        "total_price": 33
+      }
+    ]
   }
